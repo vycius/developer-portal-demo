@@ -58,7 +58,7 @@ const config = {
                         label: "Docs",
                     },
                     {
-                        href: "https://github.com/vycius/developers-portal-demo",
+                        href: "https://github.com/vycius/developer-portal-demo",
                         position: "right",
                         className: "header-github-link",
                         "aria-label": "GitHub repository",
